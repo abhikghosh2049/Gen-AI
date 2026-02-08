@@ -17,17 +17,6 @@ This project exposes AI endpoints using **FastAPI** and **LangServe**, including
 
 ---
 
-## 🚀 Endpoints
-
-After running the server:
-
-- Swagger Docs: http://localhost:8000/docs  
-- OpenAI Chat: http://localhost:8000/openai  
-- Essay Generator: http://localhost:8000/essay  
-- Ollama Local Model: http://localhost:8000/ollama  
-
----
-
 ## ⚙️ Installation
 
 ### Clone Repository
@@ -108,8 +97,7 @@ Gen-AI/
 ---
 
 ## 📜 License
-
-Open Source
+BSD-3-Clause license
 
 ---
 
@@ -117,3 +105,4 @@ Open Source
 
 **Abhik Ghosh**  
 GitHub: https://github.com/abhikghosh2049
+Email: abhik2018ghosh@gmail.com
