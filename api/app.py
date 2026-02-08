@@ -5,6 +5,7 @@ from langserve import add_routes
 from langchain_community.llms import Ollama
 from dotenv import load_dotenv
 import os
+import uvicorn
 
 load_dotenv()
 
